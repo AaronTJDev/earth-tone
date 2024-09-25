@@ -6,6 +6,7 @@
   "repository": {
     "url": "https://github.com/AaronTJDev/earth-tone"
   },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.93.0"
   },
