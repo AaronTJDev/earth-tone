@@ -1,8 +1,9 @@
 {
   "name": "earth-tone",
+  "publisher": "AaronJackson",
   "displayName": "Earth Tone",
   "description": "Earth Tone offers a soothing blend of gentle earth tones and soft pastel accents, designed to create a relaxing yet productive coding environment.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/AaronTJDev/earth-tone"
   },
@@ -21,5 +22,26 @@
         "path": "./themes/Earth Tone-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "earth tones",
+    "earthy",
+    "natural",
+    "elegant",
+    "refined",
+    "brown",
+    "beige",
+    "warm",
+    "neutral",
+    "professional",
+    "soothing",
+    "calm",
+    "soft contrast",
+    "readable",
+    "eye-friendly",
+    "nature-inspired",
+    "minimalist"
+  ]
 }

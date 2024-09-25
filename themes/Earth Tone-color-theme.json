@@ -52,7 +52,7 @@
     {
       "scope": ["function", "entity.name.function"],
       "settings": {
-        "foreground": "#27AE60",  // Forest green for functions
+        "foreground": "#955251",  // Forest green for functions
         "fontStyle": "bold"
       }
     },
