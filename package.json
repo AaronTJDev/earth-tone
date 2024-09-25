@@ -3,6 +3,9 @@
   "displayName": "Earth Tone",
   "description": "Earth Tone offers a soothing blend of gentle earth tones and soft pastel accents, designed to create a relaxing yet productive coding environment.",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/AaronTJDev/earth-tone"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
