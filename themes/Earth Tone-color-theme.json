@@ -1,0 +1,73 @@
+{
+  "name": "Refined Earth Tone",
+  "type": "light",
+  "colors": {
+    "editor.background": "#F0EBE3",  // Lighter, more neutral background for elegance
+    "editor.foreground": "#4A3B38",  // Rich, dark brown for better contrast
+    "editorLineNumber.foreground": "#9C8579",  // Muted taupe for line numbers
+    "activityBar.background": "#7D6E68",  // Softer brown for activity bar
+    "sideBar.background": "#E5DFD6",  // Warm, light beige for sidebar
+    "statusBar.background": "#3E2F2C",  // Deep, rich brown for status bar
+    "statusBar.foreground": "#F5F1E8",  // Soft cream for status bar text
+    "titleBar.activeBackground": "#7D6E68",  // Matching activity bar color
+    "titleBar.activeForeground": "#F5F1E8",  // Soft cream for title bar text
+    "editorCursor.foreground": "#D35400",  // Refined orange for cursor
+    "editor.selectionBackground": "#D7CCC8",  // Soft selection color
+    "editor.inactiveSelectionBackground": "#E5DFD6",  // Lighter inactive selection
+    "statusBarItem.remoteForeground": "#F5F1E8",  // Cream for remote button text
+    "statusBarItem.remoteBackground": "#7D6E68",  // Matching brown for remote button
+    "statusBar.border": "#5D4A47",  // Subtle border for status bar
+    "editorIndentGuide.background1": "#D7CCC8",  // Soft indent guides
+    "editorIndentGuide.activeBackground1": "#B0A49A",  // Darker active indent guide
+    "list.activeSelectionBackground": "#C8B8B0",  // Refined selection in lists
+    "list.hoverBackground": "#E5DFD6"  // Subtle hover effect
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#998374",  // Muted brown for comments
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["keyword", "storage.type"],
+      "settings": {
+        "foreground": "#C0392B",  // Rich terracotta for keywords
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["string", "constant"],
+      "settings": {
+        "foreground": "#D4AC0D"  // Deep gold for strings and constants
+      }
+    },
+    {
+      "scope": ["variable", "parameter"],
+      "settings": {
+        "foreground": "#D35400"  // Burnt orange for variables and parameters
+      }
+    },
+    {
+      "scope": ["function", "entity.name.function"],
+      "settings": {
+        "foreground": "#27AE60",  // Forest green for functions
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["type", "class", "support.type"],
+      "settings": {
+        "foreground": "#2980B9",  // Steel blue for types and classes
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["punctuation", "meta.brace"],
+      "settings": {
+        "foreground": "#7F8C8D"  // Subtle gray for punctuation
+      }
+    }
+  ]
+}

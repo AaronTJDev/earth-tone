@@ -1,0 +1,21 @@
+{
+  "name": "earth-tone",
+  "displayName": "Earth Tone",
+  "description": "Earth Tone offers a soothing blend of gentle earth tones and soft pastel accents, designed to create a relaxing yet productive coding environment.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Earth Tone",
+        "uiTheme": "vs",
+        "path": "./themes/Earth Tone-color-theme.json"
+      }
+    ]
+  }
+}
